@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+	"font_face": "Fixedsys Excelsior 3.01",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
